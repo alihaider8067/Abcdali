@@ -1,67 +1,58 @@
-# Hi, I'm Ali Haider 
+# Hi, I'm Ali Haider 👋
 
-## AI Engineer Specialist
+## .NET Developer | ASP.NET Core Web API | Backend Engineer
 
-I build modern web applications and integrate AI capabilities using Full-Stack technologies and Generative AI.
+I build secure, scalable REST APIs with C# and ASP.NET Core, designing clean backend architectures with Entity Framework Core and relational databases. I also have hands-on experience with LLM-based RAG systems and HubSpot CRM automation.
 
-## Tech Stack
+## Core Skills
 
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
+**Backend & Frameworks**
+- C#, .NET 10
+- ASP.NET Core Web API
+- Entity Framework Core (Code First, Migrations, LINQ)
+- Swagger / Postman / OpenAPI
+- Dependency Injection, Repository Pattern, Clean Architecture
+- RESTful API design, JWT authentication
+
+**Databases**
+- SQL Server (LocalDB)
 - MySQL
-- Python
-- LLM APIs
-- TensorFlow
-- Git/GitHub
-- n8n (Workflow Automation)
+- MongoDB
+
+**Tools**
+- Visual Studio, Git/GitHub, Postman
+- Node.js & Express.js (secondary)
 
 ## Featured Projects
 
-🚀 **AI-Powered HubSpot Lead Scoring System**  
-An automated lead-scoring pipeline that triggers on new HubSpot contact creation, enriches the lead with company research via a LangChain agent, scores fit on a 1–10 scale, and updates HubSpot in real time — including custom properties, deal creation for qualified leads, and activity logging to the contact timeline.
+🚀 **Bike / Laptop / Book REST APIs (ASP.NET Core)**
+CRUD Web APIs built with ASP.NET Core and EF Core, using the repository pattern and dependency injection.
 
-Features:
-- HubSpot webhook trigger on new contact creation
-- LangChain-powered enrichment and AI scoring chain
-- Automatic HubSpot contact updates (AI score, reasoning, recommended action)
-- Conditional deal creation and pipeline assignment for high-fit leads
-- Engagement logging to the contact activity timeline
-- Supabase sync + Next.js dashboard for sorted lead visibility
-- Deployed n8n workflow with GitHub Actions CI/CD
+- Full CRUD endpoints (GET, POST, PUT, DELETE)
+- EF Core code-first migrations on SQL Server and MySQL
+- Separate database per service
+- Interactive API testing with Swagger
 
-
-
-🚀 Uni Finder  
-Full-stack university platform built with modern web technologies.
-
-🚀 MERN Authentication System  
+🚀 **MERN Authentication System**
 Secure authentication using JWT and bcrypt.
 
-🚀 AI CAPTCHA Solver  
-CNN-based image recognition project.
+🚀 **Uni Finder**
+Full-stack university platform built with modern web technologies.
 
-🚀 AI Document Assistant (RAG-Based)
+## AI & Automation (Additional Experience)
 
-An AI-powered document assistant that allows users to upload books, research papers, and documents. The system uses Retrieval-Augmented Generation (RAG) to understand document content, summarize information, and answer user questions based on the uploaded files.
+🤖 **AI Document Assistant (RAG-Based)**
+Upload PDFs, summarize them, and ask questions answered from the document content using a Retrieval-Augmented Generation pipeline with LLM APIs.
 
-Features:
-- Upload PDF documents
-- Summarize books and research papers
-- Ask questions from documents
-- Context-aware AI answers
-- RAG pipeline with document retrieval
-- LLM-powered responses
+🔗 **HubSpot CRM Lead Scoring Automation**
+Triggers on new HubSpot contacts, enriches each lead with an LLM agent, scores fit from 1 to 10, then updates contact properties, creates deals for qualified leads, and logs activity to the timeline. Built with n8n and deployed via GitHub Actions CI/CD.
 
 ## Currently Learning
 
-- AI Agents
-- Advanced RAG Systems
-- Cloud Deployment
+- Advanced ASP.NET Core (Minimal APIs, authentication and authorization)
+- Clean Architecture and CQRS
+- Cloud deployment (Azure)
 
 ## Connect With Me
 
-LinkedIn: www.linkedin.com/in/ali-haider-6821253b0
-
+LinkedIn: [www.linkedin.com/in/ali-haider-6821253b0](https://www.linkedin.com/in/ali-haider-6821253b0)
